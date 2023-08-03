@@ -121,6 +121,6 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(168, 168, 168);
+    background-color: gray;
     padding: 20px;
 }
